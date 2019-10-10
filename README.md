@@ -3,6 +3,11 @@ A static mobile layout of a fitness training application.
 ### NOTE:
 This app isn't consuming any API whatsoever.
 
+## Technologies
+* React-Native
+* Yarn
+* Expo
+
 ## How to Get Started
 * Clone the repository on your local machine.
 * Run `yarn` to install all necessary packages and dependencies.
